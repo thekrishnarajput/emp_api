@@ -12,5 +12,10 @@
     "url": "\u0016https://github.com/thekrishnarajput/emp_api.git"
   },
   "author": "Mukesh (Krishna)",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.0",
+    "fs": "0.0.1-security"
+  }
 }
