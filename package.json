@@ -1,0 +1,16 @@
+{
+  "name": "emp_api",
+  "version": "1.0.0",
+  "description": "This is a dummy json employee data for testing, In this API you get 10k employee JSON raw data.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/thekrishnarajput/emp_api.git"
+  },
+  "author": "Mukesh (Krishna)",
+  "license": "ISC"
+}
