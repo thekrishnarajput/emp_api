@@ -1,6 +1,6 @@
 const express = require('express');
 const fs = require('fs');
-const data = fs.readFileSync('./json/Employees.json');
+const data = fs.readFileSync('./json/Employee1.json');
 const elements = JSON.parse(data);
 const app = express();
 const cors = require('cors');
