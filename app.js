@@ -12,13 +12,13 @@ const port = process.env.PORT || 3000;
 app.use(express.static('public'));
 app.use(cors())
 
-app.use('/employees-small', allData);
-function allData(request, response) {
+app.use('/employees-small', allData1);
+function allData1(request, response) {
     response.send(elements1);
 }
 
-app.use('/employees', allData);
-function allData(request, response) {
+app.use('/employees', allData2);
+function allData2(request, response) {
     response.send(elements2);
 }
 
