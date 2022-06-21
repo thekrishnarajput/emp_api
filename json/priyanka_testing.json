@@ -457,5 +457,52 @@
         "work_shift": "60a399be0b687912364497c9",
         "credit_limit_type": 1,
         "credit_limit_percent": 10
+    },
+    {
+        "reference_id": "ref1lIlj08tYq2M6pEKeB8cKnmX",
+        "f_name": "Navneet",
+        "l_name": "Gupta",
+        "gender": "M",
+        "dob": "1995-05-07",
+        "father_mother_name": "Gupta Ji",
+        "cibil_score": 897,
+        "employee_id": 72783587930800,
+        "email": "thekrishnarajput@gmail.com",
+        "mobile_number": "7999132123",
+        "esi_no": "931",
+        "uan": 88742534,
+        "employee_aadhaar": 888173171234,
+        "pan_card": "ABCDE6673Z",
+        "bank_details": {
+            "bank_name": "Rooxo",
+            "account_number": 123456123456,
+            "ifsc_code": "SBIN0003493",
+            "branch_name": "Trasak",
+            "bank_account_type": "S",
+            "name_in_bank": "Navneet Gupta"
+        },
+        "basic_pay": 95000,
+        "additions": 737,
+        "net_deductions": 91,
+        "net_pay": 81553,
+        "rupyo_credit_limit": 12672,
+        "pay_cycle": 1,
+        "advance_given": "1.70",
+        "address": {
+            "address_1": "2",
+            "address_2": "798 Heath Street",
+            "pincode": 370851,
+            "city": "Indore",
+            "district": "Indore",
+            "state": "Madhya Pradesh",
+            "country": "India"
+        },
+        "role_id": 3,
+        "selfie": "http://dummyimage.com/135x100.png/ff4444/ffffff",
+        "company_id": "60f54e18fa584e1fb2d9c1d4",
+        "api_access_key": "09MwmNKbXjqVOmUV8XZ8Ly2HQRzKwiINfMlQjU8Kgoo4dxwNC4Abs2tfI9YidtbZa5b98Qp2RLnaF9Z9UZSJixpt6JMyAriajPLO",
+        "work_shift": "60f54e18fa584e1fb2d9c1d7",
+        "credit_limit_type": 2,
+        "credit_limit_percent": 4.1
     }
 ]
