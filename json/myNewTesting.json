@@ -68,7 +68,7 @@
         },
         "basic_pay": 95000,
         "additions": 737,
-        "net_deductions": 91,
+        "net_deductions":91,
         "net_pay": 81553,
         "rupyo_credit_limit": 12672,
         "pay_cycle": 1,
