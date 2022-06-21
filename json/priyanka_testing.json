@@ -184,8 +184,7 @@
         "credit_limit_percent": 6
     },
     {
-        "reference_id": "ref6zNQnX7uRcjI8mMYsZ2zApwW",
-        "first_name": "SOMYA ",
+        "first_name": "SOMYA",
         "last_name": "VISHWAKARMA",
         "gender": "F",
         "dob": "18-06-1995",
@@ -193,7 +192,7 @@
         "cibil_score": 810,
         "employee_id": 29593713569183,
         "email": "somyavishwakarma1@gmail.com",
-        "mobile_number": "9589336995",
+        "mobile_number": 9589336995,
         "esi_no": "0",
         "uan": 34724682,
         "employee_aadhaar": 397910056528,
