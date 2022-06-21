@@ -459,9 +459,8 @@
         "credit_limit_percent": 10
     },
     {
-        "reference_id": "ref1lIlj08tYq2M6pEKeB8cKnmX",
-        "f_name": "Navneet",
-        "l_name": "Gupta",
+        "first_name": "Navneet",
+        "last_name": "Gupta",
         "gender": "M",
         "dob": "1995-05-07",
         "father_mother_name": "Gupta Ji",
